@@ -54,6 +54,7 @@ div{
 }
 
 .red{
+    border: none;
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
@@ -62,6 +63,7 @@ div{
 }
 
 .blue{
+    border: none;
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
@@ -78,6 +80,7 @@ div{
 }
 
 .yellow{
+    border: none;
     background-color: #fff000;
     text-align: right;
     margin-left: 50px;
@@ -90,6 +93,7 @@ div{
 }
 
 .green{
+    border: none;
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
